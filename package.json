@@ -1,0 +1,23 @@
+{
+  "name": "egghead_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arguments.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odrzutowiec/egghead_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odrzutowiec/egghead_nodejs/issues"
+  },
+  "homepage": "https://github.com/odrzutowiec/egghead_nodejs#readme"
+}

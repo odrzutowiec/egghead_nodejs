@@ -1,9 +1,9 @@
 var PI = Math.PI;
 
-exports.area = function(r) {
+module.exports.area = function(r) {
   return PI * r * r;
 }
 
-exports.circumference = function(r) {
+module.exports.circumference = function(r) {
   return 2 * PI * r;
 }
