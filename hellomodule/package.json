@@ -1,0 +1,15 @@
+{
+  "name": "hellomodule",
+  "version": "0.1.0",
+  "description": "Writes hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Pyzozord",
+  "license": "MIT"
+}
